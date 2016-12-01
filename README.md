@@ -44,7 +44,7 @@
 > gulp clean
 
 ```
-[什么是gulp? ](http://www.gulpjs.com.cn/docs/getting-started/)
+[什么是gulp? ](http://www.gulpjs.com.cn/)
 
 [如何安装gulp? ](http://www.gulpjs.com.cn/docs/getting-started/)
 
