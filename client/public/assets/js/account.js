@@ -1,0 +1,1 @@
+!function(){"use strict";angular.module("myApp.account",[])}(),function(){"use strict";function n(){console.log("这里是登录页面的控制器!")}angular.module("myApp.account").controller("signInCtrl",n),n.$inject=[]}();
