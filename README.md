@@ -1,6 +1,14 @@
 # angular+bootstrap+gulp
 
-## 使用方法  
+## 前提
+
+项目需要node环境，并且依赖于 nodejs 的express框架。
+
+如果没有安装express,请执行一下命令：
+> npm install -g express-generator
+
+
+## 使用方法  
 ```
 // 下载项目
 > git clone https://github.com/xiangming25/angular_bootstrap.git  
