@@ -13,7 +13,7 @@
 ## 使用方法  
 ```
 // 下载项目
-> git clone https://github.com/xiangming25/angular_bootstrap.git  
+> git clone https://github.com/SinghCvn/angular_bootstrap_gulp.git
 
 // 安装服务端需要的包
 > npm install 
