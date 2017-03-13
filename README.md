@@ -8,8 +8,6 @@
 ```
 > npm install -g express-generator
 ```
-
-
 ## 使用方法  
 ```
 // 下载项目
@@ -24,7 +22,6 @@
 // 安装客户端需要的包
 > npm install
 ```
-
 ## 启动方法
 ```
 # 启动服务器
